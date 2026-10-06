@@ -1,0 +1,20 @@
+600 noise frames, 1.94e+07 cells
+  design P_fa 1e-02   measured 1.13e-02   (219987 false alarms)   i.i.d. reference 1.00e-02
+  design P_fa 1e-03   measured 1.32e-03   (25662 false alarms)   i.i.d. reference 1.01e-03
+  design P_fa 1e-04   measured 1.66e-04   (3232 false alarms)   i.i.d. reference 9.96e-05
+  design P_fa 1e-05   measured 2.26e-05   (439 false alarms)   i.i.d. reference 1.04e-05
+  design P_fa 1e-06   measured 3.65e-06   (71 false alarms)   i.i.d. reference 9.26e-07
+Processing gain to the range-Doppler cell: 43.3 dB
+  SNR  -35.0 dB/sample    8.3 dB in cell   P_d = 0.06
+  SNR  -34.0 dB/sample    9.3 dB in cell   P_d = 0.15
+  SNR  -33.0 dB/sample   10.3 dB in cell   P_d = 0.25
+  SNR  -32.0 dB/sample   11.3 dB in cell   P_d = 0.47
+  SNR  -31.0 dB/sample   12.3 dB in cell   P_d = 0.73
+  SNR  -30.0 dB/sample   13.3 dB in cell   P_d = 0.89
+  SNR  -29.0 dB/sample   14.3 dB in cell   P_d = 0.98
+  SNR  -28.0 dB/sample   15.3 dB in cell   P_d = 1.00
+  SNR  -27.0 dB/sample   16.3 dB in cell   P_d = 1.00
+  SNR  -26.0 dB/sample   17.3 dB in cell   P_d = 1.00
+  SNR  -25.0 dB/sample   18.3 dB in cell   P_d = 1.00
+  SNR  -24.0 dB/sample   19.3 dB in cell   P_d = 1.00
+Effective number of independent training cells: 53
